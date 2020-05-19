@@ -75,14 +75,14 @@ class Dataset(db.Model):
             'download.code': self.code,
             'sp.scientific': self.scientific,
             'sp.common': self.common,
-            'sp.layer': self.layer,
-            'sp.protocol': self.protocol,
-            'sp.identity': self.identity,
-            'sp.genes': self.genes,
-            'sp.cells': self.cells,
-            'sp.authors': self.authors,
-            'sp.doi': self.doi,
-            'sp.raw': self.raw
+            'bio.layer': self.layer,
+            'seq.protocol': self.protocol,
+            'cell.identity': self.identity,
+            'n.genes': self.genes,
+            'n.cells': self.cells,
+            'ref.authors': self.authors,
+            'ref.doi': self.doi,
+            'raw.dataset': self.raw
         }
 
     @classmethod
