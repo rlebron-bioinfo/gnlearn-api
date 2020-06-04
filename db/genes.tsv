@@ -1,7 +1,7 @@
 download.code	sp.scientific	sp.common	dataset	url
-1	Mus musculus	House mouse	Genes	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Mus_musculus/Genes/mouse_genes.txt
-2	Mus musculus	House mouse	TF-Target Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Mus_musculus/Genes/mouse_tf-target_interactions.txt
-3	Mus musculus	House mouse	Drug-Gene Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Mus_musculus/Genes/mouse_drug-gene_interactions.txt
-4	Homo sapiens	Human	Genes	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Homo_sapiens/Genes/human_genes.txt
-5	Homo sapiens	Human	TF-Target Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Homo_sapiens/Genes/human_tf-target_interactions.txt
-6	Homo sapiens	Human	Drug-Gene Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Homo_sapiens/Genes/human_drug-gene_interactions.txt
+1	Homo sapiens	Human	Genes	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Homo_sapiens/Genes/human_genes.txt
+2	Homo sapiens	Human	TF-Target Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Homo_sapiens/Genes/human_tf-target_interactions.txt
+3	Homo sapiens	Human	Drug-Gene Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Homo_sapiens/Genes/human_drug-gene_interactions.txt
+4	Mus musculus	House mouse	Genes	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Mus_musculus/Genes/mouse_genes.txt
+5	Mus musculus	House mouse	TF-Target Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Mus_musculus/Genes/mouse_tf-target_interactions.txt
+6	Mus musculus	House mouse	Drug-Gene Interactions	https://raw.githubusercontent.com/rlebron-bioinfo/gnlearn-datasets/master/Mus_musculus/Genes/mouse_drug-gene_interactions.txt
